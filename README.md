@@ -19,9 +19,14 @@ Install the following npm modules:
 2. Answer the prompted questions and add as many team members as you would like.
 3. Team would be generated on 'index.html file'
 
+# Test
+![test](gif/testpassed.png)
 
 # Demo
-![Demo](gif/readmegenerator.gif)
+![Demo1](gif/demo.gif)
+
+# Populated Team Output
+![Demo2](gif/team.png)
 
 # Questions
 Email: balogunt302@gmail.com
