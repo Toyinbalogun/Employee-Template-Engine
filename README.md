@@ -4,8 +4,10 @@
 # Table of Contents
 1. [Installation](#Installation)
 2. [Usage](#Usage)
-3. [Demo](#Demo)
-4. [Questions](#Questions)
+3. [Test](#Test)
+4. [Demo](#Demo)
+5. [Team-Output](#Team-Output)
+6. [Questions](#Questions)
 
 
 
@@ -25,7 +27,7 @@ Install the following npm modules:
 # Demo
 ![Demo1](gif/demo.gif)
 
-# Populated Team Output
+# Team-Output
 ![Demo2](gif/team.png)
 
 # Questions
